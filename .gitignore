@@ -1,0 +1,4 @@
+# No cache
+__pycache__/
+# No report
+*.docx
