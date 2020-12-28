@@ -31,9 +31,10 @@ sudo apt install python3-tk   # Ubuntu, Debian
 
 Oh, yes... You need that database          
 1. Use psql
+```
 > \i tables.sql
 > \i fill.sql
-
+```
 OR run commands from sql files at pgAdmin4
 
 2. Create a file database.ini (in project folder :) ) with such contents:       
